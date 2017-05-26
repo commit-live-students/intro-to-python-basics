@@ -32,11 +32,10 @@ After this lesson, you'll be able to
 
 
 ## Assignments 
-* [Assignment 1](https://app.commit.live/lesson/fsdse-python-assignment-1)
-* [Assignment 2](https://app.commit.live/lesson/fsdse-python-assignment-2)
-* [Assignment 3](https://app.commit.live/lesson/fsdse-python-assignment-3)
-* [Assignment 4](https://app.commit.live/lesson/fsdse-python-assignment-4)
-* [Assignment 5](https://app.commit.live/lesson/fsdse-python-assignment-5)
+* [Find all the even number between 1 to 100](/lesson/fsdse-python-assignment-12)
+* [Generate Fibonacci sequence up to 10](/lesson/fsdse-python-assignment-13)
+
+& many more inside commit.live.
 
 
 ## Resources & Post Reads
