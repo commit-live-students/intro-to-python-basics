@@ -28,7 +28,7 @@ After this lesson, you'll be able to
 
 ## Slides
 
-* Python Programming Basics
+@[gslides](1f9vm-NX8g9Gz1iqZTdRk2vsqgC4F-mNI4g0YTiYFTcM)
 
 
 ## Assignments 
