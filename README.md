@@ -33,7 +33,7 @@ After this lesson, you'll be able to
 
 ## Assignments 
 * [Find all the even number between 1 to 100](/lesson/fsdse-python-assignment-12)
-* [Generate Fibonacci sequence up to 10](/lesson/fsdse-python-assignment-13)
+* [Generate Fibonacci sequence up to 10](/lesson/fsdse-python-assignment-6)
 
 & many more inside commit.live.
 
