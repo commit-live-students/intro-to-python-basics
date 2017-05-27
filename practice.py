@@ -1,8 +1,7 @@
 s1 = "hello 12112345678902dasda dasd asdf asd fasfd sdaf sadf sdaf das fsadf asd d"
 
-s2 = "hello 12112345678902dasda dasd asdf asd fasfd sdaf sadf sdaf das fsadf asd d"
+print type(s1)
 
-print (id(s1), id(s2))
+s1 = 20
 
-
-print ("Hello")
+print type(s1)
