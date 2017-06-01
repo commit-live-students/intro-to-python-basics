@@ -32,7 +32,7 @@ After this lesson, you'll be able to
 
 ## Instructors code alongs
 
-[Basic python jupyter notebook]()
+[Basic python jupyter notebook](https://github.com/commit-live-students/intro-to-python-basics/blob/master/files/Python%20Programming%20-%20Basics.ipynb)
 
 
 ## Assignments 
