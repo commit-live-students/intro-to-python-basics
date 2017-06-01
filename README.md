@@ -30,6 +30,10 @@ After this lesson, you'll be able to
 
 @[gslides](1f9vm-NX8g9Gz1iqZTdRk2vsqgC4F-mNI4g0YTiYFTcM)
 
+## Instructors code alongs
+
+[Basic python jupyter notebook]()
+
 
 ## Assignments 
 * [Find all the even number between 1 to 100](/lesson/fsdse-python-assignment-12)
