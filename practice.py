@@ -1,4 +1,11 @@
-celsius = [39.2,36.5,37.3,37.8]
+list = ['a','b','c','b','a']
 
-for i in celsius:
-    print (1.8 * i) + 32
+list1 = list
+
+list1.reverse()
+
+
+if list == list1:
+    print 'Its a palindrome string'
+else:
+    print 'Its not a palindrome string'
