@@ -1,0 +1,1 @@
+{"stats": {"passes": 1, "skipped": 0, "encoding": "UTF-8", "errors": 0, "failures": 0, "total": 1}, "results": [{"classname": "tests.test_solution:TestSolution", "type": "success", "name": "test_solution", "time": 0.00010585784912109375}]}
