@@ -9,9 +9,9 @@ Before this lesson , we recommend you go through
 * [Developer mindset](https://www.coursera.org/learn/algorithmic-thinking-1)
 
 
-## Learning Objectives 
+## Learning Objectives
 
-After this lesson, you'll be able to 
+After this lesson, you'll be able to
 
 * Understand Python libraries and their usage for Data Science
 * Work with basic Python data types
@@ -35,7 +35,7 @@ After this lesson, you'll be able to
 [Basic python jupyter notebook](https://github.com/commit-live-students/intro-to-python-basics/blob/master/files/Python%20Programming%20-%20Basics.ipynb)
 
 
-## Assignments 
+## Assignments
 * [Find all the even number between 1 to 100](/lesson/fsdse-python-assignment-12)
 * [Generate Fibonacci sequence up to 10](/lesson/fsdse-python-assignment-13)
 
